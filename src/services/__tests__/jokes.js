@@ -1,7 +1,7 @@
-import { JokesService } from "../jokes";
-import "@/mock/mocker";
 import { createLocalVue } from "@vue/test-utils";
 import store from "@/store/index.js";
+import { JokesService } from "../jokes";
+import "@/mock/mocker";
 
 const localVue = createLocalVue();
 
