@@ -14,6 +14,8 @@ class JokesService {
      */
     static getJokes(amount) {
         return ApiClient.get("/jokes/random/" + amount).then(({ data }) => {
+            store.dispatch("jokes/setJokes", data.value);
+
             return data.value;
         });
     }

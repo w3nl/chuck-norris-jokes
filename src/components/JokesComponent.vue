@@ -24,6 +24,7 @@
 <script>
 import JokesSection from "./JokesSection";
 import { JokesService } from "@/services/jokes";
+import { mapGetters } from "vuex";
 
 export default {
     components: {
@@ -33,8 +34,7 @@ export default {
         return {
             timerIsOn: false,
             canAddNewFavoriteJoke: true,
-            favoriteJokes: [],
-            jokes: []
+            favoriteJokes: []
         };
     },
     /**
@@ -43,12 +43,17 @@ export default {
     mounted() {
         this.get10RandomJokes();
     },
+    computed: {
+        ...mapGetters({
+            jokes: "jokes/jokes"
+        })
+    },
     methods: {
         /**
          * Get 10 random jokes.
          */
         get10RandomJokes() {
-            JokesService.getJokes(10).then(newJokes => (this.jokes = newJokes));
+            JokesService.getJokes(10);
         },
         /**
          * Get a random favorite joke.
