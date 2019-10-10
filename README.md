@@ -26,5 +26,5 @@ yarn lint
 yarn test:unit
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Demo
+Check [here](https://w3nl.github.io/chuck-norris-jokes/dist/).
