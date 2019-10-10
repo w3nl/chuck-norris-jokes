@@ -27,17 +27,35 @@ class JokesService {
      * @return {Promise}
      */
     static getRandomFavoriteJoke() {
-        if (!store.getters["jokes/canAddNewFavorite"]) {
-            store.dispatch("jokes/resetTimer");
-
+        if (!this.canAddNewFavorite()) {
             return;
         }
 
         return ApiClient.get("/jokes/random/1").then(({ data }) => {
             store.dispatch("jokes/addFavorite", data.value[0]);
+            this.canAddNewFavorite();
 
             return data.value;
         });
+    }
+
+    /**
+     * Check if you can add favorites.
+     *
+     * @return {boolean}
+     */
+    static canAddNewFavorite() {
+        if (!store.getters["jokes/canAddNewFavorite"]) {
+            store.dispatch("jokes/resetTimer");
+
+            if (interval) {
+                interval = clearInterval(interval);
+            }
+
+            return false;
+        }
+
+        return true;
     }
 
     /**
