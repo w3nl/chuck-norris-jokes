@@ -13,10 +13,10 @@
         </header>
 
         <jokes-section v-if="favoriteJokes.length" :jokes="favoriteJokes">
-            Favorite jokes:
+            ❤️ Favorite jokes:
         </jokes-section>
         <jokes-section v-if="jokes.length" :jokes="jokes">
-            New jokes:
+            🔀 New jokes:
         </jokes-section>
     </main>
 </template>
@@ -33,8 +33,7 @@ export default {
     data: () => {
         return {
             timerIsOn: false,
-            canAddNewFavoriteJoke: true,
-            favoriteJokes: []
+            canAddNewFavoriteJoke: true
         };
     },
     /**
@@ -45,7 +44,8 @@ export default {
     },
     computed: {
         ...mapGetters({
-            jokes: "jokes/jokes"
+            jokes: "jokes/jokes",
+            favoriteJokes: "jokes/favoriteJokes"
         })
     },
     methods: {
