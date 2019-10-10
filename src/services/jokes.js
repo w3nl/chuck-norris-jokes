@@ -19,6 +19,25 @@ class JokesService {
             return data.value;
         });
     }
+
+    /**
+     * Get a random favorite joke.
+     */
+    static getRandomFavoriteJoke() {
+        if (!store.getters["jokes/canAddNewFavorite"]) {
+            store.dispatch("jokes/resetTimer");
+
+            return;
+        }
+
+        store.dispatch("jokes/setTimer");
+
+        ApiClient.get("/jokes/random/1").then(({ data }) => {
+            store.dispatch("jokes/addFavorite", data.value[0]);
+        });
+
+        setTimeout(this.getRandomFavoriteJoke.bind(this), 5000);
+    }
 }
 
 export { JokesService };

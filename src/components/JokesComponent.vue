@@ -22,33 +22,33 @@
 </template>
 
 <script>
-import JokesSection from "./JokesSection";
 import { JokesService } from "@/services/jokes";
-import { mapGetters } from "vuex";
+import JokesSection from "./JokesSection";
+import { mapGetters, mapActions } from "vuex";
 
 export default {
     components: {
         JokesSection
     },
-    data: () => {
-        return {
-            timerIsOn: false,
-            canAddNewFavoriteJoke: true
-        };
-    },
     /**
      * Component is mounted, get the jokes.
      */
     mounted() {
+        this.resetTimer();
         this.get10RandomJokes();
     },
     computed: {
         ...mapGetters({
             jokes: "jokes/jokes",
-            favoriteJokes: "jokes/favoriteJokes"
+            favoriteJokes: "jokes/favoriteJokes",
+            canAddNewFavoriteJoke: "jokes/canAddNewFavorite",
+            timerIsOn: "jokes/timerIsOn"
         })
     },
     methods: {
+        ...mapActions({
+            resetTimer: "jokes/resetTimer"
+        }),
         /**
          * Get 10 random jokes.
          */
@@ -59,13 +59,7 @@ export default {
          * Get a random favorite joke.
          */
         getRandomFavorite() {
-            this.favoriteJokes = [
-                {
-                    id: 1,
-                    joke: "example",
-                    categories: []
-                }
-            ];
+            JokesService.getRandomFavoriteJoke();
         }
     }
 };

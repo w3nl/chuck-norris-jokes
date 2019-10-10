@@ -1,6 +1,7 @@
 const state = {
     jokes: [],
-    favorites: []
+    favorites: [],
+    timer: false
 };
 
 const getters = {
@@ -11,7 +12,8 @@ const getters = {
     favoriteJokes: state => state.favorites,
     isFavorite: state => jokeId =>
         state.favorites.some(favorite => favorite.id == jokeId),
-    canAddNewFavorite: state => state.favorites.length < 10
+    canAddNewFavorite: state => state.favorites.length < 10,
+    timerIsOn: state => state.timer
 };
 
 const actions = {
@@ -25,7 +27,9 @@ const actions = {
         if (state.favorites.some(favoriteJoke => favoriteJoke.id == joke.id)) {
             commit("removeFavorite", joke);
         }
-    }
+    },
+    setTimer: ({ commit }) => commit("setTimer"),
+    resetTimer: ({ commit }) => commit("resetTimer")
 };
 
 const mutations = {
@@ -37,7 +41,9 @@ const mutations = {
         );
 
         state.favorites.splice(index, 1);
-    }
+    },
+    setTimer: state => (state.timer = true),
+    resetTimer: state => (state.timer = false)
 };
 
 export default {

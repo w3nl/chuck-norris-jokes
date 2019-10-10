@@ -15,7 +15,7 @@ describe("Check if we get random jokes", () => {
     });
 
     it("Check if we get 10 random jokes from the vuex store", async () => {
-        const jokes = await JokesService.getJokes(10);
+        await JokesService.getJokes(10);
 
         expect(store.getters["jokes/jokes"].length).toBe(10);
     });
