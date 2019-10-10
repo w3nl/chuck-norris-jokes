@@ -1,6 +1,6 @@
 <template>
     <article>
-        <p>{{ joke }}</p>
+        <p v-html="joke" />
 
         <nav>
             <button v-if="canAddNewFavoriteJoke" @click="addFavoriteJoke">
