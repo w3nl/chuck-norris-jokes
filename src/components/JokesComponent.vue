@@ -6,7 +6,7 @@
             <nav>
                 <button @click="get10RandomJokes">Get 10 random jokes</button>
                 <button v-if="canAddNewFavoriteJoke" @click="getRandomFavorite">
-                    Get another random favorite joke
+                    Get random favorite jokes every 5s
                     <span v-if="timerIsOn">⏳</span>
                 </button>
             </nav>
@@ -59,7 +59,7 @@ export default {
          * Get a random favorite joke.
          */
         getRandomFavorite() {
-            JokesService.getRandomFavoriteJoke();
+            JokesService.getRandomFavoriteJokeTimer();
         }
     }
 };

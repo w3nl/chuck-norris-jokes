@@ -1,6 +1,8 @@
 import ApiClient from "@/client";
 import store from "@/store/index.js";
 
+let interval;
+
 /**
  * Jokes service.
  */
@@ -19,9 +21,10 @@ class JokesService {
             return data.value;
         });
     }
-
     /**
-     * Get a random favorite joke.
+     * Get random favorite joke.
+     *
+     * @return {Promise}
      */
     static getRandomFavoriteJoke() {
         if (!store.getters["jokes/canAddNewFavorite"]) {
@@ -30,13 +33,28 @@ class JokesService {
             return;
         }
 
-        store.dispatch("jokes/setTimer");
-
-        ApiClient.get("/jokes/random/1").then(({ data }) => {
+        return ApiClient.get("/jokes/random/1").then(({ data }) => {
             store.dispatch("jokes/addFavorite", data.value[0]);
-        });
 
-        setTimeout(this.getRandomFavoriteJoke.bind(this), 5000);
+            return data.value;
+        });
+    }
+
+    /**
+     * Get a random favorite joke every 5 seconds.
+     */
+    static getRandomFavoriteJokeTimer() {
+        if (interval) {
+            store.dispatch("jokes/resetTimer");
+            interval = clearInterval(interval);
+
+            return;
+        }
+
+        store.dispatch("jokes/setTimer");
+        this.getRandomFavoriteJoke();
+
+        interval = setInterval(this.getRandomFavoriteJoke.bind(this), 5000);
     }
 }
 
