@@ -23,6 +23,7 @@
 
 <script>
 import JokesSection from "./JokesSection";
+import { JokesService } from "@/services/jokes";
 
 export default {
     components: {
@@ -47,13 +48,7 @@ export default {
          * Get 10 random jokes.
          */
         get10RandomJokes() {
-            this.jokes = [
-                {
-                    id: 1,
-                    joke: "example",
-                    categories: []
-                }
-            ];
+            JokesService.getJokes(10).then(newJokes => (this.jokes = newJokes));
         },
         /**
          * Get a random favorite joke.
