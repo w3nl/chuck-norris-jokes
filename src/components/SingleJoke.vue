@@ -1,77 +1,17 @@
 <template>
     <article>
-        <p v-html="joke" />
-
-        <nav>
-            <button v-if="canAddNewFavoriteJoke" @click="addFavoriteJoke">
-                ❤️
-            </button>
-            <button v-if="isFavoriteJoke" @click="removeFavoriteJoke">
-                💔
-            </button>
-        </nav>
+        <router-link :to="{ name: 'joke-detail', params: { jokeId: id } }">
+            <p v-html="value" />
+        </router-link>
     </article>
 </template>
 
 <script>
-import { mapGetters, mapActions } from "vuex";
-
 export default {
     props: {
-        id: Number,
+        id: String,
         categories: Array,
-        joke: String
-    },
-    computed: {
-        ...mapGetters({
-            canAddNewFavorite: "jokes/canAddNewFavorite",
-            isFavorite: "jokes/isFavorite"
-        }),
-        /**
-         * Check if this is a favorite joke.
-         *
-         * @return {boolean}
-         */
-        isFavoriteJoke() {
-            return this.isFavorite(this.id);
-        },
-        /**
-         * CHeck if you can add a new joke.
-         *
-         * @return {boolean}
-         */
-        canAddNewFavoriteJoke() {
-            return this.canAddNewFavorite && !this.isFavoriteJoke;
-        }
-    },
-    methods: {
-        ...mapActions({
-            addFavorite: "jokes/addFavorite",
-            removeFavorite: "jokes/removeFavorite"
-        }),
-        /**
-         * If a favorite changed, update the vue store.
-         *
-         * @param {object} joke
-         */
-        addFavoriteJoke() {
-            this.addFavorite({
-                id: this.id,
-                joke: this.joke,
-                categories: this.categories
-            });
-        },
-        /**
-         * If a favorite changed, update the vue store.
-         *
-         * @param {object} joke
-         */
-        removeFavoriteJoke() {
-            this.removeFavorite({
-                id: this.id,
-                text: this.joke
-            });
-        }
+        value: String
     }
 };
 </script>

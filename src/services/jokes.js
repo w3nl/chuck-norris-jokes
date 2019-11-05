@@ -1,78 +1,39 @@
 import ApiClient from "@/client";
 import store from "@/store/index.js";
 
-let interval;
-
 /**
  * Jokes service.
  */
 class JokesService {
     /**
-     * Get random jokes.
+     * Get jokes with the search.
      *
-     * @param {number} amount
-     *
-     * @return {Promise}
-     */
-    static getJokes(amount) {
-        return ApiClient.get("/jokes/random/" + amount).then(({ data }) => {
-            store.dispatch("jokes/setJokes", data.value);
-
-            return data.value;
-        });
-    }
-    /**
-     * Get random favorite joke.
+     * @param {string} searchTest
      *
      * @return {Promise}
      */
-    static getRandomFavoriteJoke() {
-        if (!this.canAddNewFavorite()) {
-            return;
-        }
+    static getJokes(searchTest) {
+        return ApiClient.get("/jokes/search?query=" + searchTest).then(
+            ({ data }) => {
+                store.dispatch("jokes/setJokes", data.result);
 
-        return ApiClient.get("/jokes/random/1").then(({ data }) => {
-            store.dispatch("jokes/addFavorite", data.value[0]);
-            this.canAddNewFavorite();
-
-            return data.value;
-        });
-    }
-
-    /**
-     * Check if you can add favorites.
-     *
-     * @return {boolean}
-     */
-    static canAddNewFavorite() {
-        if (!store.getters["jokes/canAddNewFavorite"]) {
-            store.dispatch("jokes/resetTimer");
-
-            if (interval) {
-                interval = clearInterval(interval);
+                return data.result;
             }
-
-            return false;
-        }
-
-        return true;
+        );
     }
-
     /**
-     * Get a random favorite joke every 5 seconds.
+     * Get a single joke.
+     *
+     * @param {string} jokeId
+     *
+     * @return {Promise}
      */
-    static getRandomFavoriteJokeTimer() {
-        if (interval) {
-            store.dispatch("jokes/resetTimer");
-            interval = clearInterval(interval);
+    static getJoke(jokeId) {
+        return ApiClient.get("/jokes/" + jokeId).then(({ data }) => {
+            store.dispatch("jokes/addJoke", data);
 
-            return;
-        }
-
-        store.dispatch("jokes/setTimer");
-        this.getRandomFavoriteJoke();
-
-        interval = setInterval(this.getRandomFavoriteJoke.bind(this), 5000);
+            return data;
+        });
     }
 }
 

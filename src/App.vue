@@ -1,15 +1,11 @@
 <template>
     <div id="app">
-        <jokes-component />
+        <header>
+            <router-link :to="{ name: 'jokes-overview' }">
+                <h1>Chuck Norris Jokes</h1>
+            </router-link>
+        </header>
+
+        <router-view />
     </div>
 </template>
-
-<script>
-import JokesComponent from "./components/JokesComponent.vue";
-
-export default {
-    components: {
-        JokesComponent
-    }
-};
-</script>

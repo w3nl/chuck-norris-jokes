@@ -2,6 +2,7 @@ import { createLocalVue } from "@vue/test-utils";
 import store from "@/store/index.js";
 import { JokesService } from "../jokes";
 import "@/mock/mocker";
+import singleJoke from "@/mock/data/single-joke.json";
 
 const localVue = createLocalVue();
 
@@ -9,61 +10,31 @@ localVue.use(store);
 
 describe("Check if we get random jokes", () => {
     it("Check if we get 10 random jokes", async () => {
-        const jokes = await JokesService.getJokes(10);
+        const jokes = await JokesService.getJokes("dev");
 
-        expect(jokes.length).toBe(10);
+        expect(jokes.length).toBe(156);
     });
 
     it("Check if we get 10 random jokes from the vuex store", async () => {
-        await JokesService.getJokes(10);
+        await JokesService.getJokes("dev");
 
-        expect(store.getters["jokes/jokes"].length).toBe(10);
-        expect(store.getters["jokes/favoriteJokes"].length).toBe(0);
+        expect(store.getters["jokes/jokes"].length).toBe(156);
     });
 
-    it("Check if we get a random joke", async () => {
-        const jokes = await JokesService.getRandomFavoriteJoke();
+    it("Check if we get a single joke", async () => {
+        const joke = await JokesService.getJoke("random");
 
-        expect(jokes.length).toBe(1);
+        expect(JSON.stringify(joke)).toBe(JSON.stringify(singleJoke));
     });
 
-    it("Check if we get a random favorite joke from the vuex store", async () => {
-        await JokesService.getRandomFavoriteJoke();
+    it("Check if we get a single joke from the vuex store", async () => {
+        await JokesService.getJoke("random");
 
-        expect(store.getters["jokes/favoriteJokes"].length).toBe(1);
-        expect(store.getters["jokes/jokes"].length).toBe(9);
-        expect(store.getters["jokes/canAddNewFavorite"]).toBe(true);
-    });
-
-    it("Check if we can add all jokes as favorite", async () => {
-        const jokes = await JokesService.getJokes(10);
-
-        jokes.forEach(joke => {
-            store.dispatch("jokes/addFavorite", joke);
-        });
-
-        expect(store.getters["jokes/favoriteJokes"].length).toBe(10);
-        expect(store.getters["jokes/jokes"].length).toBe(0);
-        expect(store.getters["jokes/canAddNewFavorite"]).toBe(false);
-    });
-
-    it("Check the timer is on", () => {
-        const firstJoke = store.getters["jokes/favoriteJokes"][0];
-
-        store.dispatch("jokes/removeFavorite", firstJoke);
-
-        expect(store.getters["jokes/favoriteJokes"].length).toBe(9);
-        expect(store.getters["jokes/jokes"].length).toBe(1);
-        expect(store.getters["jokes/canAddNewFavorite"]).toBe(true);
-
-        JokesService.getRandomFavoriteJokeTimer();
-
-        expect(store.getters["jokes/timerIsOn"]).toBe(true);
-    });
-
-    it("Check the timer if off", () => {
-        JokesService.getRandomFavoriteJokeTimer();
-
-        expect(store.getters["jokes/timerIsOn"]).toBe(false);
+        expect(store.getters["jokes/jokes"].length).toBe(157);
+        expect(
+            JSON.stringify(
+                store.getters["jokes/singleJoke"]("OFLD9DntR2iKRb1IaVa4Vg")
+            )
+        ).toBe(JSON.stringify(singleJoke));
     });
 });

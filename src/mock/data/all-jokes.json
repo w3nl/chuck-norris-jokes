@@ -1,0 +1,1252 @@
+{
+    "total": 156,
+    "result": [{
+        "categories": ["dev"],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "7ver3y48qqsfktpelir7ua",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/7ver3y48qqsfktpelir7ua",
+        "value": "Don't worry about tests, Chuck Norris's test cases cover your code too."
+    }, {
+        "categories": ["explicit"],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "br0nodo6sl2q1u_i2s6uja",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/br0nodo6sl2q1u_i2s6uja",
+        "value": "For some, the left testicle is larger than the right one. For Chuck Norris, each testicle is larger than the other one."
+    }, {
+        "categories": ["explicit"],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "axtqqerhrm2lredluq1suw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/axtqqerhrm2lredluq1suw",
+        "value": "Chuck Norris once challenged Lance Armstrong in a \"Who has more testicles?\" contest. Chuck Norris won by 5."
+    }, {
+        "categories": ["dev"],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "rmmcukl2t6sottj2rvuuvg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/rmmcukl2t6sottj2rvuuvg",
+        "value": "Chuck Norris can unit test entire applications with a single assert."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "0au2_sUSSx6b0Q_msjlGGg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/0au2_sUSSx6b0Q_msjlGGg",
+        "value": "Whwn steaming clams, Chuck Norris boils the water by dipping his testicles into the pot. This of course also gives the clams their incredible flavor."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "9lt_txy7txscuxsyfhb--g",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/9lt_txy7txscuxsyfhb--g",
+        "value": "After taking a steroids test doctors informed Chuck Norris that he had tested positive. He laughed upon receiving this information, and said \"of course my urine tested positive, what do you think they make steroids from?\""
+    }, {
+        "categories": ["dev"],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "mhmp-zhqszwuimbxfbkx8q",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/mhmp-zhqszwuimbxfbkx8q",
+        "value": "Chuck Norris's programs can pass the Turing Test by staring at the interrogator."
+    }, {
+        "categories": ["dev"],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "e2gyguu0tg6di7-qykdjnw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/e2gyguu0tg6di7-qykdjnw",
+        "value": "Chuck Norris originally appeared in the \"Street Fighter II\" video game, but was removed by Beta Testers because every button caused him to do a roundhouse kick. When asked about this glitch, Norris replied \"That's no glitch.\""
+    }, {
+        "categories": ["dev"],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "espieyuysgeopdhgcdrmjw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/espieyuysgeopdhgcdrmjw",
+        "value": "Chuck Norris can't test for equality because he has no equal."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "hDcGmU_vTQyZiMGSQMXSLQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/hDcGmU_vTQyZiMGSQMXSLQ",
+        "value": "As a child, Chuck Norris never failed a test in school. Tests failed Chuck Norris."
+    }, {
+        "categories": ["sport"],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "qyqtoof0t66xhmtmfjurwg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/qyqtoof0t66xhmtmfjurwg",
+        "value": "Chuck Norris has the greatest Poker-Face of all time. He won the 1983 World Series of Poker, despite holding only a Joker, a Get out of Jail Free Monopoloy card, a 2 of clubs, 7 of spades and a green #4 card from the game UNO."
+    }, {
+        "categories": ["explicit"],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "hkhxkqlitveah9w1k26u6w",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/hkhxkqlitveah9w1k26u6w",
+        "value": "Chuck Norris' testicles do not produce sperm. They produce tiny white ninjas that recognize only one mission: seek and destroy."
+    }, {
+        "categories": ["celebrity"],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "4fmvnwfasrwmh58yjbuv1g",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/4fmvnwfasrwmh58yjbuv1g",
+        "value": "Chuck Norris is the only person to ever win a staring contest against Ray Charles and Stevie Wonder."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "gZ_cynCZRDSJ8l1vHKZ0Jg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/gZ_cynCZRDSJ8l1vHKZ0Jg",
+        "value": "Chuck Norris once won a trivia contest in Chicago. He was asked to name 3 Chicago area streets that rhymes with \"vagina\". His reply was, \"Regina\", \"Medina\" and \"Lunt\"."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "NTav4EXqSrSUrH4eQomLKw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/NTav4EXqSrSUrH4eQomLKw",
+        "value": "just one of Chuck Norris' testicles could supply 14 million homes with energy for a year"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "uikDtxRLSh6AZPXQKGTrdw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/uikDtxRLSh6AZPXQKGTrdw",
+        "value": "There are lesser apes and greater apes. Chuck Norris is the greatest apes of them all."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "iKM3erMuRJi9LER9UzCsRg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/iKM3erMuRJi9LER9UzCsRg",
+        "value": "Chuck Norris declined an invitation to compete in the World Pepper and Chilli eating contest, saying he isn't in the mood for overindulging in candy."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "J-CrGFSDSkukTQ01xrHfmg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/J-CrGFSDSkukTQ01xrHfmg",
+        "value": "After rigorous medical testing it was agreed that Anabolic Steriods are an exact match to Chuck Norris's urine"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "3ew2Bz6gQmKbSTVCknrISQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/3ew2Bz6gQmKbSTVCknrISQ",
+        "value": "After reading about the April protests in Baltimore, Chuck Norris decided to attend the Orioles, White Sox game to protect the players. No protester or thug dared attend."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "2xszEoDbTvWdc2CNapIupg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/2xszEoDbTvWdc2CNapIupg",
+        "value": "Today March 10, 2011 is Chuck Norris 71st birthday, Happy Birthday to the greatest man alive."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "eBdr9f_wS_CKXzI8C-lNJA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/eBdr9f_wS_CKXzI8C-lNJA",
+        "value": "Paramedics are now being taught to ask a person regaining conciousness- What's your name? How many fingers? What's the greatest Chuck Norris movie? And the answer had better fucking be Delta Force."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "NORSIqqZRfKQhn2te6S-cw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/NORSIqqZRfKQhn2te6S-cw",
+        "value": "Chuck Norris has nicknamed his testicles \"the good, the bad and the ugly\""
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "SkRVngB5ThuCB5ms9M7fpA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/SkRVngB5ThuCB5ms9M7fpA",
+        "value": "Chuck Norris is basically a giant throbbing pair of testicles with a cowboy hat and beard."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "Ma1tKI0LSziPxP2uYEElAg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/Ma1tKI0LSziPxP2uYEElAg",
+        "value": "The duck billed platypus is the result of a duck being roundhouse kicked in the head far to close to a beaver by Chuck Norris. The fact yay they have a pouch is a testament to the genetically altering properties of a Chuck Norris Roundhouse kick to the head."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "M1W5nueTQZyqM2lLieWrWw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/M1W5nueTQZyqM2lLieWrWw",
+        "value": "Chuck Norris don't have an adam's apple. He has throat testicles."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "wks874NuTfqdj5hY5Kmn0g",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/wks874NuTfqdj5hY5Kmn0g",
+        "value": "People might think that light is the fastest thing in the universe, but try telling that to Bob. Bob was a 32 year old, cross-eyed man who just happened to look at Chuck Norris cross-eyed. This pissed Chuck Norris off, so he delivered his patented roundhouse kick to Bob's face. The skin on Bob's face peeled back, his teeth shattered, and his eyes straightened before they exploded out of his skull with enough force to kill two nearby observers. Two seconds later, Bob was three galaxies away from the edge of the universe. Five seconds later, light was like, \"What the hell!?!\" as Bob easily passed it by."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "YLtglhWzSkaXgEVjk88k1Q",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/YLtglhWzSkaXgEVjk88k1Q",
+        "value": "Chuck Norris univented testicle clamps. And that's why you have never heard of them."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "LQDsZuk2RhSu3DKHpxE7Gw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/LQDsZuk2RhSu3DKHpxE7Gw",
+        "value": "The greatest trick Chuck Norris ever pulled was convincing the world that the Chuck Norris facts are just jokes."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "CfFh3GJNSdWu3zSwUkj2gQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/CfFh3GJNSdWu3zSwUkj2gQ",
+        "value": "This is Chuck Norris.  Chuck Norris kills cyclops by punching them between the eyes.  Chuck Norris kills all the bad guys without reloading.  Chuck Norris is the greatest at being the greatest at everything.  NO NOT attempt to be like Chuck."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "gNcOkpNeTkieR0KkocnTlQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/gNcOkpNeTkieR0KkocnTlQ",
+        "value": "Chuck Norris can beat a octopus in an underwater breathing contest."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "ha9JZvf8TzCm51MdE-A6RQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/ha9JZvf8TzCm51MdE-A6RQ",
+        "value": "Chuck Norris has a distended scrotum due solely to the size of his three testicles."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "jIKN_6PuSjiSTSg7o5avNQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/jIKN_6PuSjiSTSg7o5avNQ",
+        "value": "A man once took Chuck Norris to court for alleged assult. After the shortest jury deliberation in history, the man was found guilty of first-degree Talking Shit About Mr. Norris and sentenced to death by instant roundhouse kick."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "a7G4M0EuRXiGa79XllTcKA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/a7G4M0EuRXiGa79XllTcKA",
+        "value": "Chuck Norris can beat anybody in a staring contest... with his eyes closed"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "KC54acTTT6iPf9FD0m7VWw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/KC54acTTT6iPf9FD0m7VWw",
+        "value": "Chuck Norris once took a test called the S.T.A.N.D. he got pissed before he got to the tenth question and roundhoused it.... it is now known as the S.A.T."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "mgiKok07S8ieabfAHN20Rw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/mgiKok07S8ieabfAHN20Rw",
+        "value": "There was once a contest for the most epic person in the world. Chuck Norris signed up. He got -678324567th place. He won, by the way."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "h1IRFMCgTASZQugT2BME1Q",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/h1IRFMCgTASZQugT2BME1Q",
+        "value": "When Chuck Norris first went into space in the late 50's, they had to add extra rockets just to account for the combined testicular mass."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "67rz0jeSQduyzR65p9RDqw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/67rz0jeSQduyzR65p9RDqw",
+        "value": "If you were asked to guess how many jellybeans were in a gallon jar as compared to how many of Chuck Norris' testicles would fill a gallon jar and guessed over one, you would be wrong."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "dl12qXRUSQeInkRENgj4dg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/dl12qXRUSQeInkRENgj4dg",
+        "value": "Chuck Norris had a staring contest with the sky, it fell."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "L6-wa-YjRX6NKMudNAFPHw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/L6-wa-YjRX6NKMudNAFPHw",
+        "value": "Chuck Norris does not have any hair on his testicles. Hair doesn't grow on steel."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "ofJk8_c4Tbq7bnoT_NlVVA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/ofJk8_c4Tbq7bnoT_NlVVA",
+        "value": "Brahma bulls are envious of the size of all three of Chuck Norris' testicles."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "Yo0BEu_-SZeKcrrs1bb4HQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/Yo0BEu_-SZeKcrrs1bb4HQ",
+        "value": "The only reason Usain Bolt is officially the fastest man is because no one has bothered to clock people who run from Chuck Norris."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "tzz8-VANRtmapb9I97PRuQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/tzz8-VANRtmapb9I97PRuQ",
+        "value": "They say laughter is the greatest medicine i disagree Chuck Norris is"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "dbx4AejaTVyfpx-PVKjKmg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/dbx4AejaTVyfpx-PVKjKmg",
+        "value": "Chuck Norris is the greatest golfer in the world. He once made a hole in zero."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "iTYHJz1ASd2FzIOrXdSQgA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/iTYHJz1ASd2FzIOrXdSQgA",
+        "value": "The secret to Chuck Norris' virility comes from the fact that he eats a hardy breakfast every morning consisting of condor eggs, fried gorilla testicles, biscuits and tiger gravy."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "VqPP9QAOSyOShQS_PuHSXQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/VqPP9QAOSyOShQS_PuHSXQ",
+        "value": "A kid once had test. Not knowing what to do, the kid wrote \"Chuck Norris\" for every answer. He got a perfect score, but Chuck Norris came and roundhouse kicked him for using his name in vain."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "azOAnsfpQv6qBz9SXM6qVg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/azOAnsfpQv6qBz9SXM6qVg",
+        "value": "Chuck Norris once had a staring contest with Rambo, that is why Sylvester Stallone looks mildly retarded"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "IRxZL6wHTAaDsJKZeukSAg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/IRxZL6wHTAaDsJKZeukSAg",
+        "value": "Never brag to Chuck Norris that you have the latest smart phone, he will roundhouse kick you in the face and tell you \"there is no app for that\""
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "7K3TqXaARBipY9v8Z3On0A",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/7K3TqXaARBipY9v8Z3On0A",
+        "value": "Chuck Norris once beat a mountain in a staring contest."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "2Wks5RM5TcuUtWMUGvT_YA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/2Wks5RM5TcuUtWMUGvT_YA",
+        "value": "Chuck Norris won the Thanksgiving Day Giant Pumpkin contest by weighing in only one of his testicles."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "Je9eNMeHRHyKAfAam0v0mQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/Je9eNMeHRHyKAfAam0v0mQ",
+        "value": "After The Hulk lost an arm wrestling contest with Chuck Norris, he turned green with envy."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "H5rymlPCRKa06Ni6390Pow",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/H5rymlPCRKa06Ni6390Pow",
+        "value": "Each one of Chuck Norris' three testicles are larger than the other two."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "RX3L0rCGRc6pSCzghxzL3g",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/RX3L0rCGRc6pSCzghxzL3g",
+        "value": "horses have long faces because they keep challenging Chuck Norris to \"whos got the biggest dick\" contests"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "QlHxVQPWSHastoLQTkpSYA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/QlHxVQPWSHastoLQTkpSYA",
+        "value": "A school decided to motivate its students by putting up \"Chuck Norris is Watching You\" posters around the building.  Within 2 months, discipline problems fell to zero and test scores went up 300%."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "kupfAt0zQ2yd4BwaS6bA2A",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/kupfAt0zQ2yd4BwaS6bA2A",
+        "value": "Chuck Norris has won the Publisher Clearing House 1 million a year for live every year for the last ten years. But he has never entered their contest."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "vwlG2pbDR_iaArNwbQXW6w",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/vwlG2pbDR_iaArNwbQXW6w",
+        "value": "Chuck Norris invented Hemorrhoids by pulling a man's testicles out thru' his ass."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "24mBkDeCT2GW97T1NRmN0A",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/24mBkDeCT2GW97T1NRmN0A",
+        "value": "Chuck Norris once challanged Lance Armstrong to a testicle contest.... Chuck Norris won by 3!"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "TLLE6KE7QpiGRNDKizbCKw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/TLLE6KE7QpiGRNDKizbCKw",
+        "value": "Chuck Norris can ace a test by writing \"Violence\" for every answer, because violence is the answer."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "3CvcC2PgQWubrywAaPj32g",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/3CvcC2PgQWubrywAaPj32g",
+        "value": "Chuck Norris won a staring contest against medusa"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "y0EiYdujS2ei8VMmX0_JAg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/y0EiYdujS2ei8VMmX0_JAg",
+        "value": "The greatest discovery of mankind is Chuck Norris. You don't have to ask 'why?'."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "78UCishnRyigQb8mjxjYcg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/78UCishnRyigQb8mjxjYcg",
+        "value": "Chuck Norris uses a floor buffer to polish his massive testicles."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "Kh0P9eyBRse7AfSAk3KWgA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/Kh0P9eyBRse7AfSAk3KWgA",
+        "value": "Chuck Norris was once stopped by police and given a breath test. He inhaled the breathalyzer."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "z6-Mrm7qTj2GgbKjskemZg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/z6-Mrm7qTj2GgbKjskemZg",
+        "value": "The Vatican's latest fundraiser is selling WWCND (What Would Chuck Norris Do) braclets."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "hG20vpRXQ_WAQtOOdXqUNQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/hG20vpRXQ_WAQtOOdXqUNQ",
+        "value": "Without question, the greatest invention in the history of mankind was beer. Chuck Norris invented beer. Granted, the wheel was also a fine invention but you can't serve a wheel with pizza which was also invented by Chuck Norris."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "l_wCEG4zTpCIC9cmpHU8_g",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/l_wCEG4zTpCIC9cmpHU8_g",
+        "value": "Chuck Norris ate Bear Grylls' testicles in the show 'Man vs Chuck'"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "rXTehTIaQcuQgEAtyAZ1fg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/rXTehTIaQcuQgEAtyAZ1fg",
+        "value": "The greatest honor Chuck Norris' mom ever received was giving birth to Chuck Norris."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "6d5aVXBdSAawkWu5TlVAhg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/6d5aVXBdSAawkWu5TlVAhg",
+        "value": "Chuck Norris is the only person ever to ace a Rorschach test."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "1Plm-n0LTbOc_B5YXR40AA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/1Plm-n0LTbOc_B5YXR40AA",
+        "value": "Last Halloween, Chuck Norris entered one of his testicles in the giant pumpkin contest and won."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "V0h4AfRrQreRg36S8llNBg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/V0h4AfRrQreRg36S8llNBg",
+        "value": "When you rub Chuck Norris' testicles, he will grant you three wishes. But remember, if you're a smartass and wish for more wishes, he will promptly skin you alive."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "Rngl1KOGR06vULKpBVPSWw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/Rngl1KOGR06vULKpBVPSWw",
+        "value": "Chuck Norris easily on the latest 'Iron Chef America' contest when he prepared and served the judges a knuckle sandwich loaded with C-4."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "ogHqV2c2Q_iV4O3NeoW3Ew",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/ogHqV2c2Q_iV4O3NeoW3Ew",
+        "value": "The fastest way to a man's heart is Chuck Norris' fist."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "jNN40nB9QceyWlGt4jEIdw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/jNN40nB9QceyWlGt4jEIdw",
+        "value": "The fastest and most effective way to die is to point a gun at Chuck Norris."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "unGpTUNvSpe1-i03CLRu4w",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/unGpTUNvSpe1-i03CLRu4w",
+        "value": "If Barney and Bob the Builder had a swimming contest, you know who would win? Chuck Norris."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "qgFyl0c4TNGmhZoG5Wcj_Q",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/qgFyl0c4TNGmhZoG5Wcj_Q",
+        "value": "If your teacher gets angry because you put Chuck Norris as an answer in your test, he/she isn't mad because of that answer, your teacher is in fact jealous because you are smarter than him/her."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "d0XTIbBzTgyk5HaX84okYA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/d0XTIbBzTgyk5HaX84okYA",
+        "value": "Just to show off, Chuck Norris will occasionally use his testicles in nunchuck demonstrations."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "oWnhc3ARRy6IZiRUD5n3Ww",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/oWnhc3ARRy6IZiRUD5n3Ww",
+        "value": "Instead of the holy trinity, it should be The Holy Quadrinity: the father, the son, the holy ghost, and A Chuck Norris Testicle Hair."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "zQWPDlbDTrKUU-FJpYy--g",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/zQWPDlbDTrKUU-FJpYy--g",
+        "value": "Chuck Norris won a stareing contest in his sleep."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "nAwrO0uFS9qsXa8j6o4wVg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/nAwrO0uFS9qsXa8j6o4wVg",
+        "value": "Chuck Norris is arguably our country's greatest president."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "lLwVN6kmQLq6pnyBrm5lnw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/lLwVN6kmQLq6pnyBrm5lnw",
+        "value": "Chuck Norris and Cookie Monster once had a contest to see who ate the most cookies. At the end, Chuck Norris roundhouse kicked Cookie Monster in the head."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "aHdJbcshSTyaL-RxS1Euhw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/aHdJbcshSTyaL-RxS1Euhw",
+        "value": "Chuck Norris once had a staring contest with a picture of himself and won."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "wmb8yOAlTQKHtWAUp3Y-Eg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/wmb8yOAlTQKHtWAUp3Y-Eg",
+        "value": "Upon hearing that his good friend, Lance Armstrong, lost his testicles to cancer, Chuck Norris donated one of his to Lance. With just one of Chuck's nuts, Lance was able to win the Tour De France seven times. By the way, Chuck still has two testicles; either he was able to produce a new one simply by flexing, or he had three to begin with. No one knows for sure."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "9lK4UZw1RMabq1DO8ocxNQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/9lK4UZw1RMabq1DO8ocxNQ",
+        "value": "Chuck Norris once ace the test, just by staring at the numbers."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "Up8Nj8GWTXChnABuhOV3ag",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/Up8Nj8GWTXChnABuhOV3ag",
+        "value": "Chuck Norris told people not to talk about the Tiananment Square protest"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "2B0-YIQIQDaX1jpxmLQCpA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/2B0-YIQIQDaX1jpxmLQCpA",
+        "value": "Chuck Norris isn't given tests. He TAKES them."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "CzoEfJ6WSqCpgdO6VTQrpw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/CzoEfJ6WSqCpgdO6VTQrpw",
+        "value": "Chuck Norris originally appeared in the \"Street Fighter II\" video game, but was removed by Beta Testers because every button caused him to do a roundhouse kick. When asked bout this \"glitch,\" Norris replied, \"That's no glitch.\""
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "BqtHfDC7QwWkeoMqWUJh1w",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/BqtHfDC7QwWkeoMqWUJh1w",
+        "value": "Chuck Norris challenged Steven Seagal to a ponytail contest. Seagal backed down immediately."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "uvuwkhl_SEi0TpC1-hIwMA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/uvuwkhl_SEi0TpC1-hIwMA",
+        "value": "The Marquis de Sade invented wrought iron testicle clamps. Chuck Norris univented them which is why you've never heard of them before. Chuck Norris prefers to destroy your balls with a roundhouse kick."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "Bp3IybDbT-eFP8LRvQtBcQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/Bp3IybDbT-eFP8LRvQtBcQ",
+        "value": "Chuck Norris won't let a female doctor tell him the results of a blood test unless she's at least an 8 and it's in Morse code with Kegel exercises."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "hc5bPnMcQFSHw1TSWr3aGQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/hc5bPnMcQFSHw1TSWr3aGQ",
+        "value": "Chuck Norris blows more testosterone into a handkerchief than Arnie can ever hope to have."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "C6Rcnt5ZRASpeAClhrFZ4g",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/C6Rcnt5ZRASpeAClhrFZ4g",
+        "value": "Chuck Norris was breifly considered for the next Batman movie, but after test shoots, it became clear that it's impossible to film the batroundhouse kick and survive."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "377IoQsGQaugUPo9NvseNA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/377IoQsGQaugUPo9NvseNA",
+        "value": "Chuck Norris won the PBA Championship Rodeo Bull Riding contest by riding Snort, a 6,450 lb Brahma Bull for 4 hrs 27 minutes when Snort finally collapsed. 9 months later, Snort had a calf."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "kuRoMFScSlahqiasvhlh5A",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/kuRoMFScSlahqiasvhlh5A",
+        "value": "Chuck Norris has won the Super Bowl twice, a World Series, 7 PBA Bowling tournaments, 46 Olympic gold medals, 5 Stanley Cups, 3 World Series of Poker championships, 1,712 pie eating contests, 4,832 pillow fights, and took second at the Westminster Dog Show in 1982."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "Zcpxi7X1QaaHcPPSyo4KJw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/Zcpxi7X1QaaHcPPSyo4KJw",
+        "value": "Chuck Norris' hard stare can win a staring contest with a $1 bill."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "7fnicck4RBCaxkdo6solGA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/7fnicck4RBCaxkdo6solGA",
+        "value": "Chuck Norris can scramble eggs with your face. Then unscramble them with his chest hair. Then fry them overeasy after flattening your hands by slamming his testicles on them. And then use your hands as a spatula to flip the eggs."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "KCU9OG3ERpC1nuIvOVxLKQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/KCU9OG3ERpC1nuIvOVxLKQ",
+        "value": "Chuck Norris challenged a staring contest with Weegee then Weegee turned into Chuck Norris"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "nFnKtvIHS2-993sWPHVzCw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/nFnKtvIHS2-993sWPHVzCw",
+        "value": "Chuck Norris beat a manacan at a staring contest. In his sleep."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "1Uz3bpy_RyeBLcD5H4hzkA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/1Uz3bpy_RyeBLcD5H4hzkA",
+        "value": "Mr. T, Arnold Shcwarzzenger, and Chuck Norris are standing in front of God. God says to them,\"I have call you three here because you are the greatest fighters in the world and I have a place for one of you at my right hand. You must prove to me whom of you it shall be.\" Mr. T steps and says \"I pity the fool who doesn't let me sit at His right hand.\" God tells him that he was not good enough and sends Mr. T to hell. Arnold steps up and says \"I was in predator, commando, the terminator. You must choose the governator.\" God tells him not good enough and sends Arnold to hell. God turns to Chuck Norris and say \"Why should you sit beside me?\" Chuck quickly proceeds to roundhouse kick God in the face and say \"Bitch, your in my seat."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "oBGpAuQMQou9SIajdt0h0Q",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/oBGpAuQMQou9SIajdt0h0Q",
+        "value": "After years of rigorous and physically demanding testing, it was proved that Chuck Norris was stronger than Chuck Norris."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "y-rZkP9qRwSiK-mc8zKVqw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/y-rZkP9qRwSiK-mc8zKVqw",
+        "value": "Charlie Chaplin lost a Charlie Chaplin look-a-like contest to Chuck Norris. No one can beat Chuck Norris."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "3rS4E_EZT5GV0gyWyHkPHA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/3rS4E_EZT5GV0gyWyHkPHA",
+        "value": "It is generally accepted that the Meteor Crater in western Arizona was made by a meteor. WRONG. It was actually a result of a Chuck Norris skydiving mishap. After jumping from the plane, one of his balls became entangled in his parachute chords and was severed. Fact is, the crater is a result of his testacle impacting the ground!"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "4DX5CwAkR3Ch0kOp0p9CnQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/4DX5CwAkR3Ch0kOp0p9CnQ",
+        "value": "A greastest achvement that you can get is when you go down niagara falls in a wodden barrole, Chuck Norris can go UP niagara falls in a cardboard box."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "8k8GUH6cTWmhBLdZ3sBAog",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/8k8GUH6cTWmhBLdZ3sBAog",
+        "value": "Chuck Norris once beat Ricky Gervais in a British accent impersonation contest."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "q4kNgA2wQyWKnDj8TVddSQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/q4kNgA2wQyWKnDj8TVddSQ",
+        "value": "Simon & Garfunkel wrote the lyric 'Hello darkness, my old friend' about the end of several thousand men who saw a Chuck Norris testicle decending to crush their head."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "PXTAf4BmRKG5VCuh7rNHpA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/PXTAf4BmRKG5VCuh7rNHpA",
+        "value": "Car manufacturers crash test their cars by launching them at Chuck Norris."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "oYTUME1ZTJqrVAsg6h4I6Q",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/oYTUME1ZTJqrVAsg6h4I6Q",
+        "value": "Chuck Norris is brimming with so much testosterone-fueled badassery, that your balls will twitch at the sight of him."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "qH-x3PBUR6ugo-1_TJ9udA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/qH-x3PBUR6ugo-1_TJ9udA",
+        "value": "Before sliced bread, people used to say, \"That's the greatest thing since Chuck Norris.\" But Chuck Norris was displeased by this. So he roundhouse kicked a loaf of bread into slices."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "t9AZMT4ESFCn4lNMaho_wg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/t9AZMT4ESFCn4lNMaho_wg",
+        "value": "Chuck Norris is widely considered the greatest hip-hop artist of all time."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "sSTcTXdsSAq_8duAaiEYbw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/sSTcTXdsSAq_8duAaiEYbw",
+        "value": "Chuck Norris claims the greatest comedy ever is \"Saving Private Ryan\""
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "oH0Ds2RWSsWIYWHn-3qqfA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/oH0Ds2RWSsWIYWHn-3qqfA",
+        "value": "If survival of the fittest was true, Chuck Norris would be the last thing left on earth."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "ry14ymq8Q2KifeWO4ggfRg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/ry14ymq8Q2KifeWO4ggfRg",
+        "value": "When Chuck Norris is a contestant on \"Jeopardy,\" he can answer in any form he damn well chooses."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "vpbTPnunTMuYnib5ao99cA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/vpbTPnunTMuYnib5ao99cA",
+        "value": "Charlie Chaplin lost a Charlie Chaplin look-a-like contest to Chuck Norris. No one beats Chuck Norris."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "Q61oYhARTimMRgEc-vHk8g",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/Q61oYhARTimMRgEc-vHk8g",
+        "value": "When Chuck Norris tells you to give him a hummer, don't protest or cry - you'd best just get on your knees and do it immediately. And you'd better hum the Walker: Texas Ranger theme."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "H-fvHao6QmiQxunoX2llBg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/H-fvHao6QmiQxunoX2llBg",
+        "value": "A doctor once tried to test Chuck Norris' reflexes by lightly tapping on his knee with a small wooden mallet. Needless to say, that doctor is now in orbit."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "M0BJbCFgT8-MJmDQr2l0dg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/M0BJbCFgT8-MJmDQr2l0dg",
+        "value": "Chuck Norris can easily remove your testicles through your anus."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "hz7m6BVlRxSdYEZDiYCT3Q",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/hz7m6BVlRxSdYEZDiYCT3Q",
+        "value": "President Reagan's \"Star Wars\" anti-missile plan was just a cover for his true idea to destroy incoming Soviet nukes: Chuck Norris in his backyard ready to shoot them down with his M-16. Secret tests showed that no missiles ever got past Chuck."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "1HvBt1NCTgi5yThHwJ0bKw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/1HvBt1NCTgi5yThHwJ0bKw",
+        "value": "If light is the fastest traveling element known, then Chuck Norris is not an element"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "phz8eDrnRM-WQ_Mfx66aZw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/phz8eDrnRM-WQ_Mfx66aZw",
+        "value": "You know... Chuck Norris KNOWS Victoria's Secret... when he looks in the mirror his reflection runs away   Probably his greatest accomplishment:   He once round-house kicked someone so far his ody went back through time and hit Amelia Airheart's plane and it was shot down over the Pacific Ocean"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "amXVBASqTrOQZ897Ci6p_Q",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/amXVBASqTrOQZ897Ci6p_Q",
+        "value": "Chuck Norris once defeated the Statue of Liberty in a Stop Dance Contest.... at kindergarten!"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "iqzUvsQqTY6omuj7Zta5nA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/iqzUvsQqTY6omuj7Zta5nA",
+        "value": "Chuck Norris once challenged Cool Hand Luke to an egg eating contest. Chuck Norris beat Cool Hand Luke by eating 500 eggs to Luke's record of 50. Chuck Norris's bowel movement after he ate all those eggs later starred in the 80's film \"Howard the Duck!\""
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "W4VIyd88Rpe0BRRYEiUgnA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/W4VIyd88Rpe0BRRYEiUgnA",
+        "value": "Just to prove Darwin's theory of evolution wrong, Chuck Norris went 300 billion years back in time and killed the world's first amoeba. He then returned to modern day and killed all the world's Dawinists, thus proving the Darwin's theory of survival of the fittest to be correct."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "TVbuLkPVQ76HFRw3v2yJyA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/TVbuLkPVQ76HFRw3v2yJyA",
+        "value": "Chuck Norris wrote down that 1+1=4 on a math test and got it right."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "jmwk-tYbSlG6i1LQtfZIYA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/jmwk-tYbSlG6i1LQtfZIYA",
+        "value": "Chuck Norris can win a staring contest with a statue."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "svprA16fSXaWMc2YGmUXWQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/svprA16fSXaWMc2YGmUXWQ",
+        "value": "Death is not the greatest loss in life Chuck Norris is if he died but Chuck Norris doesn't die for know one"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "xsKiYuRfRoueJvISD_n-Qw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/xsKiYuRfRoueJvISD_n-Qw",
+        "value": "Chuck Norris has won many a contest merely by showing up."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "3eudvPgFQX2dYCuOIUtFpA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/3eudvPgFQX2dYCuOIUtFpA",
+        "value": "After consuming four gallons of Captain Morgan Rum Chuck Norris was pulled over and ask to perform a field sobriety test. He did so while standing with (L)boot on empty 1/2 gal(R)boot touching bearded ass,head tilted back,fingers touching flaming nostrils and saying the alphabet back words in 23 foregin languages...while being taserd."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "WEFB6lY2SsSGSbNwZxtnKQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/WEFB6lY2SsSGSbNwZxtnKQ",
+        "value": "Female bodybuilders are originally catwalk models who are foolish enough to swallow Chuck Norris' Testosterone-and-protein-rich semen."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "2Bu4jfTDSvKRYUnbaW2pMw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/2Bu4jfTDSvKRYUnbaW2pMw",
+        "value": "Chuck Norris won the National Pie Eating Contest by devoring 168 hotdogs in less than 10 minutes."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "SG3xo1VBTO6PWsJCNoUtGg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/SG3xo1VBTO6PWsJCNoUtGg",
+        "value": "None of the world's greatest chess grandmasters will any longer play against Chuck Norris because he always Checkmates them on his first move."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "abGSW5n4QaqV0eWJa48zWg",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/abGSW5n4QaqV0eWJa48zWg",
+        "value": "Chuck Norris is the greatest matador who ever lived."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "pA3Q6z9_SIqJQQ7z43z2UQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/pA3Q6z9_SIqJQQ7z43z2UQ",
+        "value": "Chuck Norris is the world's greatest gamer. He completed every possible scenrio in Skyrim while standing on his head, blindfolded, wearing earplugs, hands tied behind his back, with an arrow stuck in his knee...& while using an old Guitar Hero controller. Awesome!"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "ELj7h8JYRxqX5_HgArxq1A",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/ELj7h8JYRxqX5_HgArxq1A",
+        "value": "Chuck Norris can beat you at a staring contest with his eyes closed"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "fQCCf-XURtWGE6rGdKWW7A",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/fQCCf-XURtWGE6rGdKWW7A",
+        "value": "One time while sparring with Wolverine, Chuck Norris accidentally lost his left testicle. You might be familiar with it to this very day by its technical term: Jupiter."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "chHuovrMSPGy4J46ea-oiQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/chHuovrMSPGy4J46ea-oiQ",
+        "value": "There is a huge marthon with 300 of the fastest people in the world.Do you know who was the fastest and has already won? You guessed it,Chuck Norris"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "7EaMW10bTlaRJn3wQYCr2A",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/7EaMW10bTlaRJn3wQYCr2A",
+        "value": "Chuck Norris has crushed enough testicles to fill 14 oatmeal museums."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "YyDUUnNlQEWtSp771kjo1A",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/YyDUUnNlQEWtSp771kjo1A",
+        "value": "Chuck Norris was once in Street Fighter 2. He was then removed because beta testers experienced that every button makes Chuck Norris do a roundhouse kick. Beta testers then ask Chuck Norris about this \"Glitch\". Chuck Norris replys: \"That's no glitch.\""
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "4toKvBTOQIS6uxJJLv1VSA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/4toKvBTOQIS6uxJJLv1VSA",
+        "value": "Testosterone takes Chuck Norris supplements"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "YLdqBBkUS7Cu0J_yYWfpxQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/YLdqBBkUS7Cu0J_yYWfpxQ",
+        "value": "When Chuck Norris plays Charades, his contestants go deaf"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "5Or_PUsySGmOe0rFuDyIFA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/5Or_PUsySGmOe0rFuDyIFA",
+        "value": "Because of their resemblance to volleyballs, Chuck Norris had the brandname 'Wilson' tattooed on both his testicles. Then, on a whim, he tracked down Tom Hanks and threw him through a plate glass window."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "Q2ertIFvQl63DXo-KBdC7A",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/Q2ertIFvQl63DXo-KBdC7A",
+        "value": "Q: Who would win in a beer dinking contest between Stone Cold Steve Austin and Chuck Norris? A:Noone because no bar can hold that much awesomness!"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "X4HkJL60TF-TamfYGRI91g",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/X4HkJL60TF-TamfYGRI91g",
+        "value": "Recent testimonials from women worldwide have equated Chuck Norris' to that of a rivet gun."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "g8aXorgCQgypBtYA9-AWBA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/g8aXorgCQgypBtYA9-AWBA",
+        "value": "Chuck Norris has a 1:1 scale size tattoo on his right testicle of Megan Fox blowing him."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "cmVOzHTJTaiZbOX2wpJtnA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/cmVOzHTJTaiZbOX2wpJtnA",
+        "value": "Chuck Norris tested the tower 200 now the door has abs"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "9A7Tt0zlSI-9tJaPCVMYMQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/9A7Tt0zlSI-9tJaPCVMYMQ",
+        "value": "Chuck Norris' testicles are lavender-scented."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "XWBrFidQR3aS-NENlMJZnw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/XWBrFidQR3aS-NENlMJZnw",
+        "value": "Michael Jordan was recently asked who he thought was the greatest basketball player in the world. His answer?  Chuck Norris."
+    }, {
+        "categories": ["explicit"],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "7EEWW3oAR9-E5udK3DFOfQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/7EEWW3oAR9-E5udK3DFOfQ",
+        "value": "Chuck Norris once won the \"World's Longest Penis\" contest with a length of 19.75 inches. In a news interview following the event, he modestly admitted that the only pulled out enough to barely win."
+    }, {
+        "categories": ["explicit"],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "AX493pHXR-KSu7-POvwl_w",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/AX493pHXR-KSu7-POvwl_w",
+        "value": "Recent testimonials from women worldwide have equated Chuck Norris' penis to that of a rivet gun."
+    }, {
+        "categories": ["explicit"],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "9JehFRQkSECVfcTQUI5EYw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/9JehFRQkSECVfcTQUI5EYw",
+        "value": "Chuck Norris has six testicles. They surround his penis like the cylinder of a revolver."
+    }, {
+        "categories": ["explicit"],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "xuGUnMJuT06ttC4nrP8QqA",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/xuGUnMJuT06ttC4nrP8QqA",
+        "value": "Little known fact: the greatest taste sensation in the world is Chuck Norris' penis."
+    }, {
+        "categories": ["explicit"],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "JiqrAB-RRm-xYlPafESBVw",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/JiqrAB-RRm-xYlPafESBVw",
+        "value": "Good Will Hunting was originally going to be called Good Chuck Norris. However, after producers watched the test footage (shot by Norris himself), they realized the constant graphic violence and extended hardcore sex scenes were too much for a mainstream audience, so, they decided to get a bunch of pussies to make a movie for wimps instead."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-24 20:41:40.403691",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "AnBWx135Qf2t-CF9DFMiLw",
+        "updated_at": "2016-05-24 20:41:40.403691",
+        "url": "https://api.chucknorris.io/jokes/AnBWx135Qf2t-CF9DFMiLw",
+        "value": "Chuck Norris uspio uraditi zadaću da mu prođu svi autotestovi troll:"
+    }, {
+        "categories": ["movie"],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "dJQ2OqkBQPqfksj9maoxYQ",
+        "updated_at": "2016-05-01 10:51:41.584544",
+        "url": "https://api.chucknorris.io/jokes/dJQ2OqkBQPqfksj9maoxYQ",
+        "value": "Chuck Norris can beat Arnie in an Arnold Schwarzenegger Impersonation contest."
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "TZX9rXfLR7KBKQESdL9Icw",
+        "updated_at": "2017-12-29 19:52:23.239841",
+        "url": "https://api.chucknorris.io/jokes/TZX9rXfLR7KBKQESdL9Icw",
+        "value": "Chuck Norris once entered a drinking contest and won by drink everything in 1 second"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "aN_mZ8nZTaqxEIJLzJOvyg",
+        "updated_at": "2017-12-29 19:52:23.239841",
+        "url": "https://api.chucknorris.io/jokes/aN_mZ8nZTaqxEIJLzJOvyg",
+        "value": "Chuck Norris eats testoster O's for breakfast every morning"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "HdAT2qDyT52Tpo00SIJO3g",
+        "updated_at": "2017-12-29 19:52:23.239841",
+        "url": "https://api.chucknorris.io/jokes/HdAT2qDyT52Tpo00SIJO3g",
+        "value": "you know how eyes are windows to the soul ? well if you have a staring contest with Chuck Norris he'll suck out your soul"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "RX5UqnczSS-roJblwf5Tkg",
+        "updated_at": "2017-12-29 19:52:23.239841",
+        "url": "https://api.chucknorris.io/jokes/RX5UqnczSS-roJblwf5Tkg",
+        "value": "Chuck Norris once entered a drinking contest and one by drink everything in 1 second"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "OPhBsbUlSZeSY_V0hw6V9g",
+        "updated_at": "2017-12-29 19:52:23.239841",
+        "url": "https://api.chucknorris.io/jokes/OPhBsbUlSZeSY_V0hw6V9g",
+        "value": "Chuck Norris won an arm wrestling contest with both hands tied behind his back"
+    }, {
+        "categories": [],
+        "created_at": "2016-05-01 10:51:41.584544",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "qjTlPT1aQIez8UB2CyeTPQ",
+        "updated_at": "2017-12-29 19:52:23.239841",
+        "url": "https://api.chucknorris.io/jokes/qjTlPT1aQIez8UB2CyeTPQ",
+        "value": "Chuck Norris beet the sun at a staring contest"
+    }]
+}

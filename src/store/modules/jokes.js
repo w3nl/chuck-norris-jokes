@@ -1,49 +1,28 @@
 const state = {
-    jokes: [],
-    favorites: [],
-    timer: false
+    jokes: []
 };
 
 const getters = {
-    jokes: state =>
-        state.jokes.filter(
-            joke => !state.favorites.some(favorite => favorite.id == joke.id)
-        ),
-    favoriteJokes: state => state.favorites,
-    isFavorite: state => jokeId =>
-        state.favorites.some(favorite => favorite.id == jokeId),
-    canAddNewFavorite: state => state.favorites.length < 10,
-    timerIsOn: state => state.timer
+    jokes: state => state.jokes,
+    singleJoke: state => id => state.jokes.find(joke => joke.id == id)
 };
 
 const actions = {
     setJokes: ({ commit }, jokes) => commit("setJokes", jokes),
-    addFavorite: ({ state, commit }, joke) => {
-        if (!state.favorites.some(favoriteJoke => favoriteJoke.id == joke.id)) {
-            commit("addFavorite", joke);
+    addJoke: ({ state, commit }, joke) => {
+        const jokeFound = state.jokes.find(
+            originalJoke => originalJoke.id == joke.id
+        );
+
+        if (!jokeFound) {
+            commit("addJoke", joke);
         }
-    },
-    removeFavorite: ({ state, commit }, joke) => {
-        if (state.favorites.some(favoriteJoke => favoriteJoke.id == joke.id)) {
-            commit("removeFavorite", joke);
-        }
-    },
-    setTimer: ({ commit }) => commit("setTimer"),
-    resetTimer: ({ commit }) => commit("resetTimer")
+    }
 };
 
 const mutations = {
     setJokes: (state, jokes) => (state.jokes = jokes),
-    addFavorite: (state, joke) => state.favorites.push(joke),
-    removeFavorite: (state, favoriteToRemove) => {
-        const index = state.favorites.findIndex(
-            joke => joke.id === favoriteToRemove.id
-        );
-
-        state.favorites.splice(index, 1);
-    },
-    setTimer: state => (state.timer = true),
-    resetTimer: state => (state.timer = false)
+    addJoke: (state, joke) => state.jokes.push(joke)
 };
 
 export default {
